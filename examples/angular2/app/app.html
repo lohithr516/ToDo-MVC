@@ -1,0 +1,55 @@
+<h1 style="color: #646a6a">Add a task</h1>
+		<div>
+	<label style="color:#000000">Title</label><input style="width: 100%;
+    padding: 12px 20px;
+    margin: 8px 0;
+    box-sizing: border-box;
+    border: none;" placeholder="What needs to be done?" autofocus="" [(ngModel)]="newTodoText">
+    <label style="color:#000000">Due date</label><input style="width: 100%;
+								  padding: 12px 20px;
+								  margin: 8px 0;
+								  box-sizing: border-box;
+								  border: none;"type="date"  placeholder="When to complete?" autofocus="" [(ngModel)]="newTodoDate" >
+	<label style="color: #000000">Priority</label>
+			<select style="
+  width: 100%;
+    padding: 12px 20px;
+    margin: 8px 0;
+    display: inline-block;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    box-sizing: border-box;"[(ngModel)]="priority">
+				<option>---Choose your priority---</option>
+				<option value="1">High</option>
+				<option value="2">Medium</option>
+				<option value="3">Low</option>
+			</select>
+<button style="
+ 	background-color: #E20074;
+    color: #ffffff;
+    padding: 15px 32px;
+    text-align: center;
+    cursor: pointer;"(click)="addTodo()">Add</button>
+		</div>
+
+<section class="todoapp">
+	<h1 style="color:#9B9B9B">todos</h1>
+	<section class="main" *ngIf="todoStore.todos.length > 0">
+		<input id="toggle-all" class="toggle-all" type="checkbox" *ngIf="todoStore.todos.length" #toggleall [checked]="todoStore.allCompleted()" (click)="todoStore.setAllTo(toggleall.checked)">
+		<ul class="todo-list">
+			<li  *ngFor="#todo of todoStore.todos" [class.completed]="todo.completed" [class.editing]="todo.editing">
+				<div class="view">
+					<input class="toggle" type="checkbox" (click)="toggleCompletion(todo)" [checked]="todo.completed">
+					<label style="color:{{getColor(todo._date)}}" (dblclick)="editTodo(todo)">{{todo.title}} {{getAlert(todo.date)}}</label>
+
+					<button class="destroy" (click)="remove(todo)"></button>
+				</div>
+				<input class="edit" *ngIf="todo.editing" [value]="todo.title" #editedtodo (blur)="stopEditing(todo, editedtodo.value)" (keyup.enter)="updateEditingTodo(todo, editedtodo.value)" (keyup.escape)="cancelEditingTodo(todo)">
+			</li>
+		</ul>
+	</section>
+	<footer class="footer" *ngIf="todoStore.todos.length > 0">
+		<span class="todo-count"><strong>{{todoStore.getRemaining().length}}</strong> {{todoStore.getRemaining().length == 1 ? 'item' : 'items'}} left</span>
+		<button class="clear-completed" *ngIf="todoStore.getCompleted().length > 0" (click)="removeCompleted()">Clear completed</button>
+	</footer>
+</section>

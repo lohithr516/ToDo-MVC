@@ -1,0 +1,352 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="7c56d409-2173-43a9-8422-335237a2ce56" name="Default Changelist" comment="" />
+    <ignored path="$PROJECT_DIR$/.tmp/" />
+    <ignored path="$PROJECT_DIR$/temp/" />
+    <ignored path="$PROJECT_DIR$/tmp/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FUSProjectUsageTrigger">
+    <session id="-576111304">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.open.time.6" value="1" />
+          <entry key="project.opened" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="html" value="2" />
+          <entry key="ts" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="HTML" value="2" />
+          <entry key="TypeScript" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.js.language.service.starts">
+        <counts>
+          <entry key="TypeScriptServerServiceImpl" value="1" />
+        </counts>
+      </usages-collector>
+    </session>
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/examples/angular2/index.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="187">
+              <caret line="11" column="11" selection-start-line="11" selection-start-column="11" selection-end-line="11" selection-end-column="11" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/examples/angular2/app/app.ts">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-663">
+              <caret line="15" column="39" selection-start-line="15" selection-start-column="39" selection-end-line="15" selection-end-column="39" />
+              <folding>
+                <element signature="e#0#40#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/examples/angular2/app/app.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="136">
+              <caret line="31" column="53" selection-start-line="31" selection-start-column="53" selection-end-line="31" selection-end-column="53" />
+              <folding>
+                <element signature="n#style#0;n#h1#0;n#!!top" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER">
+    <package-json value="$PROJECT_DIR$/package.json" />
+  </component>
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <gulpfiles>
+      <GulpfileState>
+        <gulpfile-path>$PROJECT_DIR$/gulpfile.js</gulpfile-path>
+      </GulpfileState>
+    </gulpfiles>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="NodeModulesDirectoryManager">
+    <handled-path value="$PROJECT_DIR$/examples/angular-dart/node_modules" />
+    <handled-path value="$PROJECT_DIR$/examples/angular2/node_modules" />
+    <handled-path value="$PROJECT_DIR$/examples/angular2_es2015/node_modules" />
+    <handled-path value="$PROJECT_DIR$/examples/angularjs/node_modules" />
+    <handled-path value="$PROJECT_DIR$/examples/angularjs_require/node_modules" />
+    <handled-path value="$PROJECT_DIR$/examples/backbone/node_modules" />
+    <handled-path value="$PROJECT_DIR$/examples/backbone_marionette/node_modules" />
+    <handled-path value="$PROJECT_DIR$/examples/backbone_require/node_modules" />
+    <handled-path value="$PROJECT_DIR$/examples/binding-scala/node_modules" />
+    <handled-path value="$PROJECT_DIR$/examples/canjs/node_modules" />
+    <handled-path value="$PROJECT_DIR$/examples/canjs_require/node_modules" />
+    <handled-path value="$PROJECT_DIR$/examples/closure/node_modules" />
+    <handled-path value="$PROJECT_DIR$/examples/dijon/node_modules" />
+    <handled-path value="$PROJECT_DIR$/examples/dojo/node_modules" />
+    <handled-path value="$PROJECT_DIR$/examples/elm/node_modules" />
+    <handled-path value="$PROJECT_DIR$/examples/enyo_backbone/node_modules" />
+    <handled-path value="$PROJECT_DIR$/examples/exoskeleton/node_modules" />
+    <handled-path value="$PROJECT_DIR$/examples/firebase-angular/node_modules" />
+    <handled-path value="$PROJECT_DIR$/examples/gwt/node_modules" />
+    <handled-path value="$PROJECT_DIR$/examples/jquery/node_modules" />
+    <handled-path value="$PROJECT_DIR$/examples/js_of_ocaml/node_modules" />
+    <handled-path value="$PROJECT_DIR$/examples/jsblocks/node_modules" />
+    <handled-path value="$PROJECT_DIR$/examples/knockback/node_modules" />
+    <handled-path value="$PROJECT_DIR$/examples/knockoutjs/node_modules" />
+    <handled-path value="$PROJECT_DIR$/examples/knockoutjs_require/node_modules" />
+    <handled-path value="$PROJECT_DIR$/examples/lavaca_require/node_modules" />
+    <handled-path value="$PROJECT_DIR$/examples/mithril/node_modules" />
+    <handled-path value="$PROJECT_DIR$/examples/ractive/node_modules" />
+    <handled-path value="$PROJECT_DIR$/examples/react-alt/node_modules" />
+    <handled-path value="$PROJECT_DIR$/examples/react-backbone/node_modules" />
+    <handled-path value="$PROJECT_DIR$/examples/react/node_modules" />
+    <handled-path value="$PROJECT_DIR$/examples/reagent/node_modules" />
+    <handled-path value="$PROJECT_DIR$/examples/riotjs/node_modules" />
+    <handled-path value="$PROJECT_DIR$/examples/scalajs-react/node_modules" />
+    <handled-path value="$PROJECT_DIR$/examples/typescript-angular/node_modules" />
+    <handled-path value="$PROJECT_DIR$/examples/typescript-backbone/node_modules" />
+    <handled-path value="$PROJECT_DIR$/examples/typescript-react/node_modules" />
+    <handled-path value="$PROJECT_DIR$/examples/vanilla-es6/node_modules" />
+    <handled-path value="$PROJECT_DIR$/examples/vanillajs/node_modules" />
+    <handled-path value="$PROJECT_DIR$/examples/vue/node_modules" />
+  </component>
+  <component name="NodePackageJsonFileManager">
+    <packageJsonPaths>
+      <path value="$PROJECT_DIR$/bower_components/bootstrap/package.json" />
+      <path value="$PROJECT_DIR$/bower_components/webcomponentsjs/package.json" />
+      <path value="$PROJECT_DIR$/examples/angular-dart/package.json" />
+      <path value="$PROJECT_DIR$/examples/angular2/package.json" />
+      <path value="$PROJECT_DIR$/examples/angular2_es2015/package.json" />
+      <path value="$PROJECT_DIR$/examples/angularjs/package.json" />
+      <path value="$PROJECT_DIR$/examples/angularjs_require/package.json" />
+      <path value="$PROJECT_DIR$/examples/angularjs_require/test/package.json" />
+      <path value="$PROJECT_DIR$/examples/backbone/package.json" />
+      <path value="$PROJECT_DIR$/examples/backbone_marionette/package.json" />
+      <path value="$PROJECT_DIR$/examples/backbone_require/package.json" />
+      <path value="$PROJECT_DIR$/examples/binding-scala/package.json" />
+      <path value="$PROJECT_DIR$/examples/canjs/package.json" />
+      <path value="$PROJECT_DIR$/examples/canjs_require/package.json" />
+      <path value="$PROJECT_DIR$/examples/closure/package.json" />
+      <path value="$PROJECT_DIR$/examples/dijon/package.json" />
+      <path value="$PROJECT_DIR$/examples/dojo/package.json" />
+      <path value="$PROJECT_DIR$/examples/duel/package.json" />
+      <path value="$PROJECT_DIR$/examples/elm/package.json" />
+      <path value="$PROJECT_DIR$/examples/emberjs/todomvc/package.json" />
+      <path value="$PROJECT_DIR$/examples/enyo_backbone/package.json" />
+      <path value="$PROJECT_DIR$/examples/exoskeleton/package.json" />
+      <path value="$PROJECT_DIR$/examples/firebase-angular/package.json" />
+      <path value="$PROJECT_DIR$/examples/gwt/package.json" />
+      <path value="$PROJECT_DIR$/examples/jquery/package.json" />
+      <path value="$PROJECT_DIR$/examples/js_of_ocaml/node_modules/todomvc-app-css/package.json" />
+      <path value="$PROJECT_DIR$/examples/js_of_ocaml/node_modules/todomvc-common/package.json" />
+      <path value="$PROJECT_DIR$/examples/js_of_ocaml/package.json" />
+      <path value="$PROJECT_DIR$/examples/jsblocks/package.json" />
+      <path value="$PROJECT_DIR$/examples/knockback/package.json" />
+      <path value="$PROJECT_DIR$/examples/knockoutjs/package.json" />
+      <path value="$PROJECT_DIR$/examples/knockoutjs_require/package.json" />
+      <path value="$PROJECT_DIR$/examples/kotlin-react/package.json" />
+      <path value="$PROJECT_DIR$/examples/lavaca_require/package.json" />
+      <path value="$PROJECT_DIR$/examples/mithril/package.json" />
+      <path value="$PROJECT_DIR$/examples/polymer/package.json" />
+      <path value="$PROJECT_DIR$/examples/ractive/package.json" />
+      <path value="$PROJECT_DIR$/examples/react-alt/package.json" />
+      <path value="$PROJECT_DIR$/examples/react-backbone/package.json" />
+      <path value="$PROJECT_DIR$/examples/react/package.json" />
+      <path value="$PROJECT_DIR$/examples/reagent/package.json" />
+      <path value="$PROJECT_DIR$/examples/riotjs/package.json" />
+      <path value="$PROJECT_DIR$/examples/scalajs-react/package.json" />
+      <path value="$PROJECT_DIR$/examples/typescript-angular/package.json" />
+      <path value="$PROJECT_DIR$/examples/typescript-backbone/package.json" />
+      <path value="$PROJECT_DIR$/examples/typescript-react/package.json" />
+      <path value="$PROJECT_DIR$/examples/vanilla-es6/package.json" />
+      <path value="$PROJECT_DIR$/examples/vanillajs/package.json" />
+      <path value="$PROJECT_DIR$/examples/vue/package.json" />
+      <path value="$PROJECT_DIR$/package.json" />
+      <path value="$PROJECT_DIR$/tasks/package.json" />
+      <path value="$PROJECT_DIR$/tests/package.json" />
+      <path value="$PROJECT_DIR$/tooling/package.json" />
+    </packageJsonPaths>
+  </component>
+  <component name="PackageJsonUpdateNotifier">
+    <dismissed value="$PROJECT_DIR$/package.json" />
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="15" />
+    <option name="y" value="30" />
+    <option name="width" value="1890" />
+    <option name="height" value="930" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="todomvc-master" type="b2602c69:ProjectViewProjectNode" />
+              <item name="todomvc-master" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="todomvc-master" type="b2602c69:ProjectViewProjectNode" />
+              <item name="todomvc-master" type="462c0819:PsiDirectoryNode" />
+              <item name="examples" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="todomvc-master" type="b2602c69:ProjectViewProjectNode" />
+              <item name="todomvc-master" type="462c0819:PsiDirectoryNode" />
+              <item name="examples" type="462c0819:PsiDirectoryNode" />
+              <item name="angular2" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="todomvc-master" type="b2602c69:ProjectViewProjectNode" />
+              <item name="todomvc-master" type="462c0819:PsiDirectoryNode" />
+              <item name="examples" type="462c0819:PsiDirectoryNode" />
+              <item name="angular2" type="462c0819:PsiDirectoryNode" />
+              <item name="app" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="ts.external.directory.path" value="C:\Program Files\JetBrains\WebStorm 2018.2.5\plugins\JavaScriptLanguage\jsLanguageServicesImpl\external" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="7c56d409-2173-43a9-8422-335237a2ce56" name="Default Changelist" comment="" />
+      <created>1541526109789</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1541526109789</updated>
+      <workItem from="1541526113088" duration="1185000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="1185000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="10" y="20" width="1260" height="620" extended-state="0" />
+    <layout>
+      <window_info id="npm" side_tool="true" />
+      <window_info id="Gulp" side_tool="true" />
+      <window_info id="Favorites" side_tool="true" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24938676" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="TypeScript" />
+      <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Terminal" />
+      <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+    <option name="exactExcludedFiles">
+      <list>
+        <option value="$PROJECT_DIR$/examples/typescript-angular/js/Application.js.map" />
+        <option value="$PROJECT_DIR$/examples/typescript-react/js/utils.js" />
+        <option value="$PROJECT_DIR$/examples/typescript-backbone/js/app.js" />
+        <option value="$PROJECT_DIR$/examples/typescript-angular/js/Application.js" />
+        <option value="$PROJECT_DIR$/examples/typescript-react/js/constants.js" />
+        <option value="$PROJECT_DIR$/examples/typescript-react/js/app.js" />
+        <option value="$PROJECT_DIR$/examples/typescript-react/js/todoItem.js" />
+        <option value="$PROJECT_DIR$/examples/typescript-react/js/todoModel.js" />
+        <option value="$PROJECT_DIR$/examples/typescript-react/js/footer.js" />
+        <option value="$PROJECT_DIR$/examples/angular2/app/services/store.js" />
+        <option value="$PROJECT_DIR$/examples/angular2/app/services/store.js.map" />
+        <option value="$PROJECT_DIR$/examples/angular2/app/bootstrap.js" />
+        <option value="$PROJECT_DIR$/examples/angular2/app/app.js.map" />
+        <option value="$PROJECT_DIR$/examples/angular2/app/bootstrap.js.map" />
+        <option value="$PROJECT_DIR$/examples/angular2/app/app.js" />
+      </list>
+    </option>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/examples/angular2/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="11" column="11" selection-start-line="11" selection-start-column="11" selection-end-line="11" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/examples/angular2/app/app.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-663">
+          <caret line="15" column="39" selection-start-line="15" selection-start-column="39" selection-end-line="15" selection-end-column="39" />
+          <folding>
+            <element signature="e#0#40#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/examples/angular2/app/app.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="31" column="53" selection-start-line="31" selection-start-column="53" selection-end-line="31" selection-end-column="53" />
+          <folding>
+            <element signature="n#style#0;n#h1#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
